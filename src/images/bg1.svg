@@ -1,0 +1,87 @@
+<svg width="1361" height="609" xmlns="http://www.w3.org/2000/svg">
+ <!-- Generator: Sketch 46.2 (44496) - http://www.bohemiancoding.com/sketch -->
+ <title>Group 21</title>
+ <desc>Created with Sketch.</desc>
+
+ <g>
+  <title>background</title>
+  <rect fill="none" id="canvas_background" height="402" width="582" y="-1" x="-1"/>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <g fill-rule="evenodd" fill="none" id="Ant-Design-Pro-3.0">
+   <g id="账户密码登录-校验">
+    <g id="Group-21">
+     <g transform="rotate(-7 72.9014129638686,560.6991577148439) translate(-74.90141296386719,-569.6991577148438) translate(4.901415824890137,525.1991577148438) " opacity="0.8" id="Group-18">
+      <ellipse ry="21.766008" rx="21.783048" cy="593.167525" cx="136.476292" opacity="0.25" fill="#CFDAE6" id="Oval-11"/>
+      <ellipse ry="5.21331" rx="5.217391" cy="574.566018" cx="78.888878" opacity="0.6" fill="#CFDAE6" id="Oval-3"/>
+      <path opacity="0.45" fill="#CFDAE6" id="Oval-3-Copy" d="m111.036863,649.051178c5.76297,0 10.43478,-4.66816 10.43478,-10.42662c0,-5.75846 -4.67181,-10.42662 -10.43478,-10.42662c-5.76297,0 -10.43478,4.66816 -10.43478,10.42662c0,5.75846 4.67181,10.42662 10.43478,10.42662z"/>
+      <path stroke-linejoin="round" stroke-linecap="round" stroke-width="1.73913" stroke="#CFDAE6" id="Path-12" d="m137.178973,593.869658l54.90828,-16.60501"/>
+      <path stroke-dasharray="1.405357899873153,2.108036953469981" stroke-linejoin="round" stroke-linecap="round" opacity="0.7" stroke-width="0.702679" stroke="#E0B4B7" id="Path-16" d="m115.044583,587.199428l-34.43127,-11.9362"/>
+      <path stroke-dasharray="1.405357899873153,2.108036953469981" stroke-linejoin="round" stroke-linecap="round" stroke-width="0.702679" stroke="#BACAD9" id="Path-15" d="m136.827633,594.220718l-20.25409,35.80354"/>
+      <g fill="#CFDAE6" transform="translate(126.850922, 13.543654) rotate(30.000000) translate(-126.850922, -13.543654) translate(117.285705, 4.381889)" id="Group-17">
+       <ellipse ry="9.127681" rx="9.134827" cy="465.3241" cx="-59.297302" opacity="0.45" id="Oval-4"/>
+       <path id="Oval-4" d="m-50.162479,474.451779c0,-5.04108 -4.0898,-9.12768 -9.13482,-9.12768c-5.04503,0 -9.13483,4.0866 -9.13483,9.12768l18.26965,0z"/>
+      </g>
+     </g>
+     <g transform="rotate(-5 214.29469299316418,114.72560119628906) translate(-216.29469299316406,-123.72560119628906) translate(106.2947006225586,35.22560119628906) " id="Group-14">
+      <ellipse ry="29.140244" rx="29.117647" cy="143.865845" cx="243.41234" opacity="0.25" fill="#CFDAE6" id="Oval-2"/>
+      <ellipse ry="21.585366" rx="21.568628" cy="143.865845" cx="243.41234" opacity="0.3" fill="#CFDAE6" id="Oval-2"/>
+      <ellipse ry="23.743902" rx="23.72549" cy="252.871942" cx="393.314301" opacity="0.4" stroke="#CFDAE6" id="Oval-2-Copy"/>
+      <ellipse ry="10.792683" rx="10.784314" cy="143.865845" cx="243.41234" opacity="0.5" fill="#BACAD9" id="Oval-2"/>
+      <path fill="#BACAD9" id="Oval-2" d="m243.412343,154.658531l0,-21.58537c-5.95601,0 -10.78432,4.83205 -10.78432,10.79268c0,5.96064 4.82831,10.79269 10.78432,10.79269z"/>
+      <g fill="#E6A1A6" opacity="0.45" id="Group-9">
+       <ellipse ry="6.47561" rx="6.470588" cy="252.871943" cx="393.314301" id="Oval-2-Copy-2"/>
+       <path id="Oval-2-Copy-2" d="m393.314301,259.347551c-3.57361,0 -6.47059,-2.89923 -6.47059,-6.47561c0,-3.57638 2.89698,-6.47561 6.47059,-6.47561l0,12.95122z"/>
+      </g>
+      <ellipse ry="1.618902" rx="1.617647" cy="253.411577" cx="432.677046" fill="#CFDAE6" id="Oval-10"/>
+      <ellipse ry="1.618902" rx="1.617647" cy="290.106699" cx="393.853517" opacity="0.35" fill="#E0B4B7" id="Oval-10-Copy-2"/>
+      <ellipse ry="2.158537" rx="2.156863" cy="217.256089" cx="394.392732" opacity="0.35" fill="#E0B4B7" id="Oval-10-Copy"/>
+      <path opacity="0.8" stroke="#CFDAE6" id="Path-11" d="m243.293233,144.692761l142.15248,102.90886"/>
+     </g>
+     <g transform="rotate(-11 1052.1005859375,27.659317016601886) translate(-1054.1005859375,-36.65931701660156) translate(1026.6005859375,4.6593170166015625) " opacity="0.8" id="Group-10">
+      <ellipse ry="11.294118" rx="11.186441" cy="59.659317" cx="1095.914145" stroke-width="0.941176" stroke="#CFDAE6" id="Oval-7"/>
+      <g fill="#BACAD9" id="Group-12">
+       <ellipse ry="8.55615" rx="8.474576" cy="59.659317" cx="1095.882708" opacity="0.45" id="Oval-7"/>
+       <path id="Oval-7" d="m1095.882711,68.215468c4.68038,0 8.47457,-3.83072 8.47457,-8.55615c0,-4.72543 -3.79419,-8.55615 -8.47457,-8.55615l0,17.1123z"/>
+      </g>
+      <path stroke-width="0.941176" stroke="#CFDAE6" id="Path-2" d="m1086.760326,52.469007l-28.94308,-20.0409"/>
+      <ellipse ry="3.294118" rx="3.262712" cy="30.953435" cx="1055.363298" stroke-width="0.941176" stroke="#CFDAE6" id="Oval"/>
+      <ellipse ry="2.823529" rx="2.79661" cy="88.835788" cx="1054.897196" fill="#F7E1AD" id="Oval-Copy"/>
+      <path stroke-width="0.941176" stroke="#CFDAE6" id="Path-10" d="m1086.731826,66.951587l-29.56757,20.49281"/>
+     </g>
+     <g transform="rotate(-10 1280.537231445311,437.5028686523436) translate(-1282.5372314453125,-446.50286865234375) translate(1142.5372314453125,327.50286865234375) " opacity="0.33" id="Group-19">
+      <g fill="#BACAD9" transform="rotate(275 1353.4385986328125,998.2020874023436) translate(129.3335418701172,92.50273895263672) " id="Group-17">
+       <circle r="11.666667" cy="553.672274" cx="1433.53744" opacity="0.45" id="Oval-4"/>
+       <path id="Oval-4" d="m1421.870777,553.672278c0,6.44332 5.22334,11.66666 11.66666,11.66666c6.44333,0 11.66667,-5.22334 11.66667,-11.66666l-23.33333,0z"/>
+      </g>
+      <circle r="5.833333" cy="525.002869" cx="1482.370564" fill="#CFDAE6" id="Oval-5-Copy-6"/>
+      <path stroke-width="1.166667" stroke="#BACAD9" id="Path-17" d="m1424.037231,526.315539l11.5705,-71.20882"/>
+      <path stroke-width="1.166667" stroke="#BACAD9" id="Path-18" d="m1298.037231,474.836199l109.96625,60.31164"/>
+      <polyline points="1424.4398345947266,557.8051528930664 1455.4726867675781,669.0742034912109 1319.0372314453125,585.0137176513672 1406.9041748046875,548.3362045288086 " stroke-width="1.166667" stroke="#CFDAE6" id="Path-19"/>
+      <path opacity="0.6" stroke-width="1.166667" stroke="#E0B4B7" id="Path-20" d="m1440.370561,537.248249l35.58334,-10.49538"/>
+      <path stroke-width="1.166667" stroke="#BACAD9" id="Path-24" d="m1485.870561,519.640079l33.38608,-45.97054"/>
+      <path stroke-width="1.166667" stroke="#CFDAE6" id="Path-25" d="m1547.260651,569.734859l-59.64009,-41.81532"/>
+      <circle r="8.75" cy="446.252869" cx="1437.453898" fill="#C1D1E0" id="Oval-5"/>
+      <circle r="5.25" cy="586.252869" cx="1319.620565" fill="#C1D1E0" id="Oval-5-Copy-3"/>
+      <circle r="8.75" cy="470.752869" cx="1289.287231" fill="#D1DEED" fill-opacity="0.6" id="Oval-5-Copy-2"/>
+      <circle r="5.833333" cy="467.836202" cx="1524.370564" fill="#D1DEED" fill-opacity="0.6" id="Oval-5-Copy-4"/>
+      <circle r="5.25" cy="670.252869" cx="1456.120564" fill="#E0B4B7" id="Oval-5-Copy-5"/>
+     </g>
+    </g>
+   </g>
+  </g>
+  <text transform="rotate(31.526100158691406 212.99999999999997,92.45312499999997) " xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="24" id="svg_1" y="100.953125" x="189" stroke-width="0" stroke="#000" fill="#FFDCEC">海运</text>
+  <text transform="rotate(31.94016456604004 196.57031249999991,128.453125) " xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="24" id="svg_2" y="136.953125" x="151" stroke-width="0" stroke="#000" fill="#FFDCEC">Ocean Freight</text>
+  <text transform="rotate(-25.86842918395996 81.99999999999962,519.4531249999999) " stroke="#000" xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="24" id="svg_3" y="527.953125" x="58" stroke-width="0" fill="#FFDCEC">公路</text>
+  <text transform="rotate(-25.435890197753906 118.5703125,547.453125) " xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="24" id="svg_4" y="555.953125" x="73" stroke-width="0" stroke="#000" fill="#FFDCEC">Trucking</text>
+  <text transform="rotate(-24.047706604003906 1018.4999999999998,48.45312500000005) " stroke="#000" xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="24" id="svg_5" y="56.953125" x="994" stroke-width="0" fill="#FFDCEC">装备</text>
+  <text transform="rotate(-26.205570220947266 1077.5390625000002,63.453125000000014) " xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="24" id="svg_6" y="71.953125" x="1020" stroke-width="0" stroke="#000" fill="#FFDCEC">Equipment</text>
+  <text transform="rotate(23.34926414489746 1020.9999999999999,439.4531250000002) " stroke="#000" xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="24" id="svg_7" y="447.953125" x="985" stroke-width="0" fill="#FFDCEC">端到端</text>
+  <text transform="rotate(25.9599609375 1027.3828124999995,480.45312500000006) " stroke="#000" xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="24" id="svg_8" y="488.953125" x="968" stroke-width="0" fill="#FFDCEC">End to End</text>
+  <text xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="24" id="svg_9" y="283.953125" x="989" stroke-width="0" stroke="#000" fill="#FFDCEC">跟踪</text>
+  <text xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="24" id="svg_10" y="318.953125" x="992" stroke-width="0" stroke="#000" fill="#FFDCEC">Track &amp; Tracce</text>
+  <text xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="24" id="svg_11" y="302.953125" x="73" stroke-width="0" stroke="#000" fill="#FFDCEC">客商协同</text>
+  <text xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="24" id="svg_12" y="333.953125" x="73" stroke-width="0" stroke="#000" fill="#FFDCEC">Interoperability</text>
+ </g>
+</svg>

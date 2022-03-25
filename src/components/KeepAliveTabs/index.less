@@ -1,0 +1,76 @@
+@import '~antd/es/style/themes/default.less';
+
+.alive-tabs {
+  height: 100%;
+  margin: 0;
+  padding: 0 4px;
+  overflow: hidden;
+  line-height: 23px;
+  white-space: nowrap;
+  background: #fff;
+  -webkit-box-shadow: 0 1px 4px #00152914;
+  box-shadow: 0 1px 4px #00152914;
+
+  li {
+    position: relative;
+    display: inline-block;
+    display: inline-flex;
+    align-items: center;
+    margin-top: 4px;
+    margin-bottom: 4px;
+    padding: 0 8px;
+    color: #495060;
+    font-size: 12px;
+    list-style: none;
+    background: #fff;
+    border: 1px solid #d8dce5;
+    border-right: solid 1px #e6e6e6;
+    cursor: pointer;
+    transition: background 0.2s;
+
+    &.active {
+      color: #fff;
+      text-shadow: 0 0 0.25px currentColor;
+      background-color: @primary-color;
+      border-color: @primary-color;
+    }
+
+    & .table_name {
+      & > span {
+        display: inline-block;
+        margin-right: 3px;
+      }
+    }
+  }
+
+  .close-btn {
+    margin-left: 8px;
+    font-size: 12px;
+    line-height: 0;
+    outline: none;
+    &:hover {
+      transform: scale(1.3);
+    }
+  }
+
+  :global {
+    .ant-tabs-tab + .ant-tabs-tab {
+      margin: 0;
+    }
+    .ant-tabs-tab {
+      padding: 0;
+    }
+    .ant-tabs-top > .ant-tabs-nav,
+    .ant-tabs-bottom > .ant-tabs-nav,
+    .ant-tabs-top > div > .ant-tabs-nav,
+    .ant-tabs-bottom > div > .ant-tabs-nav {
+      margin: 0;
+    }
+    .ant-tabs-tab .anticon {
+      margin-right: 0;
+    }
+    .ant-tabs-tab.ant-tabs-tab-active .ant-tabs-tab-btn {
+      color: none;
+    }
+  }
+}

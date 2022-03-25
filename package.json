@@ -1,0 +1,54 @@
+{
+  "private": true,
+  "name":"fclmodule",
+  "scripts": {
+    "start": "umi dev",
+    "build": "umi build",
+    "postinstall": "umi generate tmp",
+    "prettier": "prettier --write '**/*.{js,jsx,tsx,ts,less,md,json}'",
+    "test": "umi-test",
+    "test:coverage": "umi-test --coverage"
+  },
+  "gitHooks": {
+    "pre-commit": "lint-staged"
+  },
+  "lint-staged": {
+    "*.{js,jsx,less,md,json}": [
+      "prettier --write"
+    ],
+    "*.ts?(x)": [
+      "prettier --parser=typescript --write"
+    ]
+  },
+  "dependencies": {
+    "@ant-design/pro-layout": "^6.5.0",
+    "@types/lodash": "^4.14.179",
+    "@umijs/hooks": "^1.9.3",
+    "@umijs/plugin-qiankun": "^2.36.0",
+    "antd": "^4.19.2",
+    "dumifile": "file:.yalc/dumifile",
+    "react": "17.x",
+    "react-dom": "17.x",
+    "umi": "^3.5.20",
+    "umi-plugin-keep-alive": "^0.0.1-beta.30"
+  },
+  "devDependencies": {
+    "@types/react": "^17.0.0",
+    "@types/react-dom": "^17.0.0",
+    "@umijs/preset-react": "1.x",
+    "@umijs/fabric": "^2.5.7",
+    "@umijs/test": "^3.5.20",
+    "cross-env": "^7.0.3",
+    "typescript": "^4.1.2",
+    "eslint": "^7.21.0",
+    "eslint-plugin-prettier": "^3.3.1",
+    "lint-staged": "^10.0.7",
+    "prettier": "^2.2.0",
+    "prettier-plugin-organize-imports": "^2.3.4",
+    "react": "17.x",
+    "react-dom": "17.x",
+    "stylelint-config-rational-order": "^0.1.2",
+    "stylelint-config-standard": "^21.0.0",
+    "yorkie": "^2.0.0"
+  }
+}
